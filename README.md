@@ -47,4 +47,4 @@
 * 共有面：TimeTreeの公開カレンダー機能は、懸賞関連ブログやSNSの投稿者でないと上手く活用が出来ないように思える。一方アプリを入手する時点で、懸賞に興味がある人に絞り、懸賞登録時に公開or非公開にするだけで済むのであれば、ブログやSNSの投稿者以外でも気軽に共有が可能ができ、懸賞情報量の増加にもつながる
 
 ## 画面遷移図
-Figma: https://www.figma.com/file/cFsfl2aD4aUk2vmk1tCAAT/Untitled?type=design&node-id=0%3A1&mode=design&t=0DJnU2OKJXcaopq9-1
+Figma: https://www.figma.com/file/cFsfl2aD4aUk2vmk1tCAAT/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?type=design&node-id=0%3A1&mode=design&t=kr90BunR3hS6ilgN-1
